@@ -7,7 +7,7 @@
 - 👨‍🍳 My meal-sharing app on render.com https://meal-sharing-fa4o.onrender.com
 - ### Codewars
 
-[![Codewars Profile](https://www.codewars.com/users/AngelHenriettaAboah/badges/large)](https://www.codewars.com/users/AngelHenriettaAboah)
+[![Codewars Profile](https://www.codewars.com/users/Angel Henrietta Aboah/badges/large)](https://www.codewars.com/users/AngelHenriettaAboah)
 
 <!---
 AngelHenriettaAboah/AngelHenriettaAboah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
