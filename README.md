@@ -5,9 +5,7 @@
 - 📫 How to reach me ... by email: aboahangel16@gmail.com
 - 🌐 My developer cv website can be found here..... https://professional-developer-cv.netlify.app
 - 👨‍🍳 My meal-sharing app on render.com https://meal-sharing-fa4o.onrender.com
-- ### Codewars
-
-[![Codewars Profile](https://www.codewars.com/users/AngelHenriettaAboah/badges/large)](https://www.codewars.com/users/AngelHenriettaAboah)
+- ### Codewars [![Codewars Profile](https://www.codewars.com/users/AngelHenriettaAboah/badges/large)](https://www.codewars.com/users/AngelHenriettaAboah)
 
 ### Connect with me
 
