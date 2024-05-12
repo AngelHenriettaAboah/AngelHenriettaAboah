@@ -27,6 +27,11 @@
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
 
+### GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AngelHenriettaAboah&show_icons=true&theme=radical)
+
+
 <!---
 AngelHenriettaAboah/AngelHenriettaAboah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
