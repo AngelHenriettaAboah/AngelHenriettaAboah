@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AngelHenriettaAboah, a Computer Engineer | Frontend Developer
+- 👋 Hi, I’m @AngelHenriettaAboah, a Computer Engineer | Web Developer
 - 👀 I’m interested in ...Web development,Frontend and Backend Development, Data Visualization & Cyber security
 - 🌱 I’m currently learning ... Front-end Development and a student @HackYourFuture Denmark
 - 💞️ I’m looking forward to open collaborations on ...web development projects or other genres. Also,I'm open to new ideas too.
