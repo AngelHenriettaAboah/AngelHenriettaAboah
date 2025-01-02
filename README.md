@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AngelHenriettaAboah, a Computer Engineer | Web Developer
 - 👀 I’m interested in ...Web development,Frontend and Backend Development, Data Visualization & Cyber security
-- 🌱 I’m currently learning ... Front-end Development and a student @HackYourFuture Denmark
+- 🌱 I’m currently a ...mentor @HackYourFuture Aarhus Denmark
 - 💞️ I’m looking forward to open collaborations on ...web development projects or other genres. Also,I'm open to new ideas too.
 - 📫 How to reach me ... by email: aboahangel16@gmail.com
 - 🌐 My developer cv website can be found here..... https://ah-portfolio4u.netlify.app
